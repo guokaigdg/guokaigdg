@@ -20,9 +20,9 @@ Hi there 👋! I'm ma_meng
 
 ### 💬 Where to find me:
 
-- 🦜 Twitter: https://twitter.com/972579026
 - 🚀 个人博客 www.guokaigdg.com
-
+- 🍉 weibo weibo https://weibo.com/u/5880240752/home?wvr=5
+- 🦜 Twitter: https://twitter.com/972579026
 
 <!--
 **guokaigdg/guokaigdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
