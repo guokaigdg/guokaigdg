@@ -26,6 +26,8 @@ Hi there 👋! I'm ma_meng
 🐁 无聊的日子就這樣，一天天過去📅 
 </h6>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true)
 ### 💬 Where to find me:
 
 - 🚀 个人博客 www.guokaigdg.com
