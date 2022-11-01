@@ -11,10 +11,17 @@ Hi there 👋! I'm ma_meng
   
 ```
 <p>
-  <img width="330" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif">
-</p>
 
-<h6>
+</p>
+<img
+     width="227"
+     alt="hello!"
+     align="left"
+     src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"
+ />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true)
+
     😂 你的</p>
     🐴 沙雕网友</p>
     🐱 撸猫小能手</p>
@@ -24,10 +31,7 @@ Hi there 👋! I'm ma_meng
     🍜 外卖品鉴师学习做饭ing</p>
     📷 定焦靠手变焦靠走的摄影师</p>
     🐁 无聊的日子就這樣，一天天過去📅 
-</h6>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true)
 ### 💬 Where to find me:
 
 - 🚀 个人博客 www.guokaigdg.com
