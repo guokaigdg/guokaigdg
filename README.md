@@ -6,7 +6,7 @@
     Hi there <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm guokaigdg
     
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🚴 frontend developer from China 👨‍💻</p>
 </p>
 
 <!-- 
@@ -45,15 +45,12 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-## My GitHub Stats
-<img
-     width="227"
-     alt="hello!"
-     align="left"
-     src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"
- />
+## ⭐️ My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true)
+| <img width="227" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/> |  <img align="center" alt="guokaigdg's github stats" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true">  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 
 <!-- 关于我 -->
 ## 🎉 About Me
@@ -69,15 +66,15 @@
     📷 定焦靠手变焦靠走的摄影师
     🐁 无聊的日子就這樣，一天天過去📅 
 
-## My GitHub Contributions
+## 🚌 My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)              
 
 
-### 💬 Where to find me:
+## 💬 Where to find me:
 
 - 🚀 个人博客 [www.guokaigdg.com](https://guokaigdg.github.io/)
-- 🍉 weibo weibo https://weibo.com/u/5880240752/home?wvr=5
+- 🍉 weibo  https://weibo.com/u/5880240752/home?wvr=5
 - 🦜 Twitter: https://twitter.com/972579026
 
 <!--
