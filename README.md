@@ -74,7 +74,7 @@
 ## 💬 Where to find me:
 
 - 🚀 个人博客 [www.guokaigdg.com](https://guokaigdg.github.io/)
-- 🍉 weibo  https://weibo.com/u/5880240752/home?wvr=5
+- 🍠 小红书 [@我家猫叫佩奇](https://www.xiaohongshu.com/user/profile/607112a900000000010014c3)
 - 🦜 Twitter: https://twitter.com/972579026
 
 <!--
