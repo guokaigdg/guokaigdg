@@ -47,9 +47,11 @@
 
 ## ⭐️ My GitHub Stats
 
-| <img width="227" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/> |  <img align="center" alt="guokaigdg's github stats" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true">  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<!-- <img align="center" alt="guokaigdg's github stats" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true"> 
+<img width="227" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/> 
+-->
 
+ [![guokaigdg's GitHub | Stats](https://stats.quine.sh/guokaigdg/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=guokaigdg)
 
 
 <!-- 关于我 -->
