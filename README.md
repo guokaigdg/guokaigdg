@@ -73,11 +73,13 @@
 ![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)              
 
 
-## 💬 Where to find me:
+## 💬 Contact Me:
 
-- 🚀 个人博客 [www.guokaigdg.com](https://guokaigdg.github.io/)
-- 🍠 小红书 [@我家猫叫佩奇](https://www.xiaohongshu.com/user/profile/607112a900000000010014c3)
-- 🦜 Twitter: https://twitter.com/972579026
+- **📬 Email:** [guokaigdg@gmail.com](mailto:guokaigdg@gmail.com)
+- **🚀 Blog:** [www.guokaigdg.com](https://guokaigdg.github.io/)
+- **🐙 Github:** [guokaigdg](https://github.com/guokaigdg)  
+- **🦤 Twitter:** [@ma_meng](https://twitter.com/972579026)
+- **💰 掘金:** [我家猫叫佩奇](https://juejin.cn/user/3526889035006190)
 
 <!--
 **guokaigdg/guokaigdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
