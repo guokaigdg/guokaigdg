@@ -27,6 +27,7 @@
 ```
 
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
@@ -45,14 +46,18 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
+<!-- 
 ## ⭐️ My GitHub Stats
+-->
 
 <!-- <img align="center" alt="guokaigdg's github stats" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true"> 
 <img width="227" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/> 
 -->
 
+<!-- 
  [![guokaigdg's GitHub | Stats](https://stats.quine.sh/guokaigdg/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=guokaigdg)
 
+-->
 
 <!-- 关于我 -->
 ## 🎉 About Me
