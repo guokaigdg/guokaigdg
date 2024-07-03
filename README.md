@@ -26,8 +26,6 @@
   
 ```
 
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
@@ -75,8 +73,10 @@
 
 ## 🚌 My GitHub Contributions
 
-![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)              
+<!--![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)  -->
 
+![](https://github-readme-stats.vercel.app/api?username=guokaigdg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=guokaigdg&theme=tokyonight&hide_border=false)
 
 ## 💬 Contact Me:
 
