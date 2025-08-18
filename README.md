@@ -3,18 +3,25 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    Hi there <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm guokaigdg
-    
+    <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> Hello
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🚴 frontend developer from China 👨‍💻</p>
+   <p align="center">A frontend developer from China </p>
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+<br />
+
+- 🧙 frontend developer
+- 🚴 cycling enthusiasts
+- 🏂🏻 skiing enthusiasts
+- 📬 guokaigdg@gmail.com
+
 
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
-
 
 ```
                       __                     __
@@ -25,7 +32,8 @@
 /____/                         /____/      /____/   
   
 ```
-
+-->
+<!-- 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
@@ -43,7 +51,7 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
-
+-->
 <!-- 
 ## ⭐️ My GitHub Stats
 -->
@@ -56,8 +64,8 @@
  [![guokaigdg's GitHub | Stats](https://stats.quine.sh/guokaigdg/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=guokaigdg)
 
 -->
-
 <!-- 关于我 -->
+<!-- 
 ## 🎉 About Me
 <br />
 
@@ -72,8 +80,7 @@
     📅 无聊的日子就這樣，一天天過去
 
 ## 🚌 My GitHub Contributions
-
-<!--![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)  -->
+<!--![](https://raw.githubusercontent.com/guokaigdg/githubSNK/output/github-contribution-grid-snake.svg)  
 
 ![](https://github-readme-stats.vercel.app/api?username=guokaigdg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guokaigdg&theme=tokyonight&hide_border=false)
