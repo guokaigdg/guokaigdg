@@ -17,7 +17,7 @@
 - 🚴 cycling enthusiasts
 - 🏂🏻 skiing enthusiasts
 - 📬 guokaigdg@gmail.com
-- 🏄‍♂️ Rednote / 小红书: [我家猫叫佩奇](https://xhslink.com/m/2N2lrz8pMUq)
+
 
 
 <!-- 
